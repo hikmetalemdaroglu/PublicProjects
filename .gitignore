@@ -1,0 +1,25 @@
+# Temporary Files
+*~             # Backup files created by some editors (e.g., Emacs)
+*.bak          # General backup files
+*.tmp          # Temporary files
+#* # All files starting with '#' (sometimes used by IDEs or editors)
+temp/          # A common temporary directory
+_temp/         # Another common temporary directory
+
+# Log Files
+*.log
+logs/
+
+# Development Environment Files
+# Visual Studio Code
+.vscode/
+
+# Build Artifacts
+# If your build process creates specific output folders
+build/
+dist/
+
+# Any other files you frequently see pop up that should not be versioned
+# For example, if you have user-specific profile files or IDE generated files
+# .user
+# .metadata/
