@@ -1,0 +1,11 @@
+D:\LiberKey\MyDocuments\source\repos\vb\vbWebServiceSample\vbWebServiceSample\bin\vbWebServiceSample.dll.config
+D:\LiberKey\MyDocuments\source\repos\vb\vbWebServiceSample\vbWebServiceSample\bin\vbWebServiceSample.dll
+D:\LiberKey\MyDocuments\source\repos\vb\vbWebServiceSample\vbWebServiceSample\bin\vbWebServiceSample.pdb
+D:\LiberKey\MyDocuments\source\repos\vb\vbWebServiceSample\vbWebServiceSample\bin\vbWebServiceSample.xml
+D:\LiberKey\MyDocuments\source\repos\vb\vbWebServiceSample\vbWebServiceSample\obj\Debug\vbWebServiceSample.vbproj.AssemblyReference.cache
+D:\LiberKey\MyDocuments\source\repos\vb\vbWebServiceSample\vbWebServiceSample\obj\Debug\vbWebServiceSample.Resources.resources
+D:\LiberKey\MyDocuments\source\repos\vb\vbWebServiceSample\vbWebServiceSample\obj\Debug\vbWebServiceSample.vbproj.GenerateResource.cache
+D:\LiberKey\MyDocuments\source\repos\vb\vbWebServiceSample\vbWebServiceSample\obj\Debug\vbWebServiceSample.vbproj.CoreCompileInputs.cache
+D:\LiberKey\MyDocuments\source\repos\vb\vbWebServiceSample\vbWebServiceSample\obj\Debug\vbWebServiceSample.dll
+D:\LiberKey\MyDocuments\source\repos\vb\vbWebServiceSample\vbWebServiceSample\obj\Debug\vbWebServiceSample.xml
+D:\LiberKey\MyDocuments\source\repos\vb\vbWebServiceSample\vbWebServiceSample\obj\Debug\vbWebServiceSample.pdb

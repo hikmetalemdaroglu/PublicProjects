@@ -1,0 +1,14 @@
+D:\LiberKey\MyDocuments\source\repos\IsTheEmailReal\IsTheEmailReal\bin\Debug\IsTheEmailReal.exe.config
+D:\LiberKey\MyDocuments\source\repos\IsTheEmailReal\IsTheEmailReal\bin\Debug\IsTheEmailReal.exe
+D:\LiberKey\MyDocuments\source\repos\IsTheEmailReal\IsTheEmailReal\bin\Debug\IsTheEmailReal.pdb
+D:\LiberKey\MyDocuments\source\repos\IsTheEmailReal\IsTheEmailReal\bin\Debug\IsTheEmailReal.xml
+D:\LiberKey\MyDocuments\source\repos\IsTheEmailReal\IsTheEmailReal\obj\Debug\IsTheEmailReal.vbproj.AssemblyReference.cache
+D:\LiberKey\MyDocuments\source\repos\IsTheEmailReal\IsTheEmailReal\obj\Debug\IsTheEmailReal.Resources.resources
+D:\LiberKey\MyDocuments\source\repos\IsTheEmailReal\IsTheEmailReal\obj\Debug\IsTheEmailReal.vbproj.GenerateResource.cache
+D:\LiberKey\MyDocuments\source\repos\IsTheEmailReal\IsTheEmailReal\obj\Debug\IsTheEmailReal.vbproj.CoreCompileInputs.cache
+D:\LiberKey\MyDocuments\source\repos\IsTheEmailReal\IsTheEmailReal\obj\Debug\IsTheEmailReal.exe
+D:\LiberKey\MyDocuments\source\repos\IsTheEmailReal\IsTheEmailReal\obj\Debug\IsTheEmailReal.xml
+D:\LiberKey\MyDocuments\source\repos\IsTheEmailReal\IsTheEmailReal\obj\Debug\IsTheEmailReal.pdb
+D:\LiberKey\MyDocuments\source\repos\IsTheEmailReal\IsTheEmailReal\bin\Debug\Newtonsoft.Json.dll
+D:\LiberKey\MyDocuments\source\repos\IsTheEmailReal\IsTheEmailReal\bin\Debug\Newtonsoft.Json.xml
+D:\LiberKey\MyDocuments\source\repos\IsTheEmailReal\IsTheEmailReal\obj\Debug\IsTheEma.6560B054.Up2Date

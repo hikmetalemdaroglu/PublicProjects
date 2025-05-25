@@ -1,0 +1,15 @@
+D:\LiberKey\MyDocuments\source\repos\GetExternalip_php\GetExternalip_php\bin\Release\net5.0-windows\GetExternalip_php.exe
+D:\LiberKey\MyDocuments\source\repos\GetExternalip_php\GetExternalip_php\bin\Release\net5.0-windows\GetExternalip_php.deps.json
+D:\LiberKey\MyDocuments\source\repos\GetExternalip_php\GetExternalip_php\bin\Release\net5.0-windows\GetExternalip_php.runtimeconfig.json
+D:\LiberKey\MyDocuments\source\repos\GetExternalip_php\GetExternalip_php\bin\Release\net5.0-windows\GetExternalip_php.runtimeconfig.dev.json
+D:\LiberKey\MyDocuments\source\repos\GetExternalip_php\GetExternalip_php\bin\Release\net5.0-windows\GetExternalip_php.dll
+D:\LiberKey\MyDocuments\source\repos\GetExternalip_php\GetExternalip_php\bin\Release\net5.0-windows\GetExternalip_php.pdb
+D:\LiberKey\MyDocuments\source\repos\GetExternalip_php\GetExternalip_php\obj\Release\net5.0-windows\GetExternalip_php.GeneratedMSBuildEditorConfig.editorconfig
+D:\LiberKey\MyDocuments\source\repos\GetExternalip_php\GetExternalip_php\obj\Release\net5.0-windows\GetExternalip_php.AssemblyInfoInputs.cache
+D:\LiberKey\MyDocuments\source\repos\GetExternalip_php\GetExternalip_php\obj\Release\net5.0-windows\GetExternalip_php.AssemblyInfo.vb
+D:\LiberKey\MyDocuments\source\repos\GetExternalip_php\GetExternalip_php\obj\Release\net5.0-windows\GetExternalip_php.vbproj.CoreCompileInputs.cache
+D:\LiberKey\MyDocuments\source\repos\GetExternalip_php\GetExternalip_php\obj\Release\net5.0-windows\GetExternalip_php.dll
+D:\LiberKey\MyDocuments\source\repos\GetExternalip_php\GetExternalip_php\obj\Release\net5.0-windows\refint\GetExternalip_php.dll
+D:\LiberKey\MyDocuments\source\repos\GetExternalip_php\GetExternalip_php\obj\Release\net5.0-windows\GetExternalip_php.pdb
+D:\LiberKey\MyDocuments\source\repos\GetExternalip_php\GetExternalip_php\obj\Release\net5.0-windows\GetExternalip_php.genruntimeconfig.cache
+D:\LiberKey\MyDocuments\source\repos\GetExternalip_php\GetExternalip_php\obj\Release\net5.0-windows\ref\GetExternalip_php.dll

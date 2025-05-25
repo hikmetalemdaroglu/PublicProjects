@@ -1,0 +1,10 @@
+D:\SourceVS\vb\DateTimeDiff\DateTimeDiff\bin\Debug\DateTimeDiff.exe
+D:\SourceVS\vb\DateTimeDiff\DateTimeDiff\bin\Debug\DateTimeDiff.pdb
+D:\SourceVS\vb\DateTimeDiff\DateTimeDiff\bin\Debug\DateTimeDiff.xml
+D:\SourceVS\vb\DateTimeDiff\DateTimeDiff\obj\Debug\DateTimeDiff.vbproj.AssemblyReference.cache
+D:\SourceVS\vb\DateTimeDiff\DateTimeDiff\obj\Debug\DateTimeDiff.Resources.resources
+D:\SourceVS\vb\DateTimeDiff\DateTimeDiff\obj\Debug\DateTimeDiff.vbproj.GenerateResource.cache
+D:\SourceVS\vb\DateTimeDiff\DateTimeDiff\obj\Debug\DateTimeDiff.vbproj.CoreCompileInputs.cache
+D:\SourceVS\vb\DateTimeDiff\DateTimeDiff\obj\Debug\DateTimeDiff.exe
+D:\SourceVS\vb\DateTimeDiff\DateTimeDiff\obj\Debug\DateTimeDiff.xml
+D:\SourceVS\vb\DateTimeDiff\DateTimeDiff\obj\Debug\DateTimeDiff.pdb

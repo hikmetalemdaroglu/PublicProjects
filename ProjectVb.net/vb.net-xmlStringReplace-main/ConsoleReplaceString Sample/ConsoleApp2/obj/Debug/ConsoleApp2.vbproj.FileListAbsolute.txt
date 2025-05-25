@@ -1,0 +1,20 @@
+D:\SourceVS\vb\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+D:\SourceVS\vb\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+D:\SourceVS\vb\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.xml
+D:\SourceVS\vb\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.vbproj.AssemblyReference.cache
+D:\SourceVS\vb\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.Resources.resources
+D:\SourceVS\vb\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.vbproj.GenerateResource.cache
+D:\SourceVS\vb\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.vbproj.CoreCompileInputs.cache
+D:\SourceVS\vb\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+D:\SourceVS\vb\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.xml
+D:\SourceVS\vb\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+D:\SourceVS\vb\_Denemeler\ConsoleReplaceString Sample\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+D:\SourceVS\vb\_Denemeler\ConsoleReplaceString Sample\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+D:\SourceVS\vb\_Denemeler\ConsoleReplaceString Sample\ConsoleApp2\bin\Debug\ConsoleApp2.xml
+D:\SourceVS\vb\_Denemeler\ConsoleReplaceString Sample\ConsoleApp2\obj\Debug\ConsoleApp2.vbproj.AssemblyReference.cache
+D:\SourceVS\vb\_Denemeler\ConsoleReplaceString Sample\ConsoleApp2\obj\Debug\ConsoleApp2.Resources.resources
+D:\SourceVS\vb\_Denemeler\ConsoleReplaceString Sample\ConsoleApp2\obj\Debug\ConsoleApp2.vbproj.GenerateResource.cache
+D:\SourceVS\vb\_Denemeler\ConsoleReplaceString Sample\ConsoleApp2\obj\Debug\ConsoleApp2.vbproj.CoreCompileInputs.cache
+D:\SourceVS\vb\_Denemeler\ConsoleReplaceString Sample\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+D:\SourceVS\vb\_Denemeler\ConsoleReplaceString Sample\ConsoleApp2\obj\Debug\ConsoleApp2.xml
+D:\SourceVS\vb\_Denemeler\ConsoleReplaceString Sample\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

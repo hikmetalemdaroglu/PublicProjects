@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="csXImageDemo.exe" version="1.0.0.2" publicKeyToken="559bfe4d45bb2f2b" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:publisher="Oak Software" co.v1:suiteName="Oak Image Manuplation" asmv2:product="Oak Image" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="csXImageDemo" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="csXImageDemo.exe" parameters="" />
+  </entryPoint>
+  <co.v1:useManifestForTrust xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+             If you want to change the Windows User Account Control level replace the 
+             requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            Specifying requestedExecutionLevel element will disable file and registry virtualization. 
+            Remove this element if your application requires this virtualization for backwards
+            compatibility.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AxInterop.csXImageTrial.dll" size="98304">
+      <assemblyIdentity name="AxInterop.csXImageTrial" version="5.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>gq76P59DtkhHMNWK3z99JaLkJgc=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="csXImageDemo.exe" size="54184">
+      <assemblyIdentity name="csXImageDemo" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>yvQb+sKfDqsvNnc50SjEk615zzU=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Interop.csXImageTrial.dll" size="105472">
+      <assemblyIdentity name="Interop.csXImageTrial" version="5.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>e3iGAqBshxULWwQA1K/1VUfFw2Q=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- A list of the Windows versions that this application has been tested on
+           and is designed to work with. Uncomment the appropriate elements
+           and Windows will automatically select the most compatible environment. -->
+      <!-- Windows Vista -->
+      <!--<supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}" />-->
+      <!-- Windows 7 -->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}" />-->
+      <!-- Windows 8 -->
+      <!--<supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}" />-->
+      <!-- Windows 8.1 -->
+      <!--<supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}" />-->
+      <!-- Windows 10 -->
+      <!--<supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}" />-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=OAK\Administrator" issuerKeyHash="51da64f8eb8db62c7306c440d7fbad9a4ce13810" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>C17hxF0l74bFiKag+yxOZNQtjyM=</DigestValue></Reference></SignedInfo><SignatureValue>S3MoMTIxodrT6WnHIsxLZfhiiJoCXyETS+YDgL0OAnY+5vsnKUi1Ynw/lnJKFGPUP+1gSoDjlsUuvYnYlglzTXeg5yh5eW6nxdD+tJLVGUtTJNoE8sVcD6O4xBqvKQOWrjkydmIkC4MkKv5hxaEMOsPUtNH9vtZSzjLVmdybAfA=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>zDZsCCuUtpjwFzHN/zTBV0VUANiCpZBplmnRHE/GhE7//rs6aOnOJPjO/RGOtj7aWLtoYKfbwkWrcVRkUkbj3nBB3BwKcA4SGvLLItTh8hjD0GHMUDrSuja0i0VdkxM07zHOncViZD4MKDLuTUaHgawhB7QOIjlAdRxKg8K6CXU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="238f2dd4644e2cfba0a688c586ef255dc4e15e0b" Description="" Url=""><as:assemblyIdentity name="csXImageDemo.exe" version="1.0.0.2" publicKeyToken="559bfe4d45bb2f2b" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=OAK\Administrator</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>Jcj6uaa4yPepKsMfqgzCuvt7/AM=</DigestValue></Reference></SignedInfo><SignatureValue>pljP/bcB7+vSycfrI6bQyrfA6KhmCluKX/vNzEDkjKHis2+upPbqzwArYhlUI63H/dIvuV88V/pP2NIl9EIhqNfUsXFRYHo/tN9jMVDzZ00IORtC47y1+B1+G80t6t2tuCf9WZh0W+4v/QKv98Q8ZtZFcsjCx/zK4ZAjcjuivmk=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>zDZsCCuUtpjwFzHN/zTBV0VUANiCpZBplmnRHE/GhE7//rs6aOnOJPjO/RGOtj7aWLtoYKfbwkWrcVRkUkbj3nBB3BwKcA4SGvLLItTh8hjD0GHMUDrSuja0i0VdkxM07zHOncViZD4MKDLuTUaHgawhB7QOIjlAdRxKg8K6CXU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB3TCCAUagAwIBAgIQUEyHAfr1yK1FhHP8SeUoJjANBgkqhkiG9w0BAQUFADAtMSswKQYDVQQDHiIATwBBAEsAXABBAGQAbQBpAG4AaQBzAHQAcgBhAHQAbwByMB4XDTIyMDIyNzEwNTQxOVoXDTIzMDIyNzE2NTQxOVowLTErMCkGA1UEAx4iAE8AQQBLAFwAQQBkAG0AaQBuAGkAcwB0AHIAYQB0AG8AcjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAzDZsCCuUtpjwFzHN/zTBV0VUANiCpZBplmnRHE/GhE7//rs6aOnOJPjO/RGOtj7aWLtoYKfbwkWrcVRkUkbj3nBB3BwKcA4SGvLLItTh8hjD0GHMUDrSuja0i0VdkxM07zHOncViZD4MKDLuTUaHgawhB7QOIjlAdRxKg8K6CXUCAwEAATANBgkqhkiG9w0BAQUFAAOBgQCdrKyNvLqWN/cZSb/OuWwZfTf+qNhMs+6VQvfQBqIzzLhCyV//kscAHp7FjZWnNIekRKQg38KK6s90L8tJHBI0xUm0mp9SCH64nHI/U3SF4683oAWhFDDfZy/r3uDTDH0GRYbJSpoa56/gdEonu4SoXAnRIDaOikiCsPQx+vimHw==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

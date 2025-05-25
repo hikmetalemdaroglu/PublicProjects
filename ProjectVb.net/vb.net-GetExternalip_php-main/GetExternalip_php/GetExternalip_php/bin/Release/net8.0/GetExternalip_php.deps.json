@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GetExternalip_php/1.0.0": {
+        "runtime": {
+          "GetExternalip_php.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GetExternalip_php/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

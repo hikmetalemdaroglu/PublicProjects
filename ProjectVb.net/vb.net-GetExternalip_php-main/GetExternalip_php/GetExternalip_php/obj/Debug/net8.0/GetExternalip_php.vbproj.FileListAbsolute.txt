@@ -1,0 +1,14 @@
+D:\LiberKey\MyDocuments\source\repos\GetExternalip_php\GetExternalip_php\bin\Debug\net8.0\GetExternalip_php.exe
+D:\LiberKey\MyDocuments\source\repos\GetExternalip_php\GetExternalip_php\bin\Debug\net8.0\GetExternalip_php.deps.json
+D:\LiberKey\MyDocuments\source\repos\GetExternalip_php\GetExternalip_php\bin\Debug\net8.0\GetExternalip_php.runtimeconfig.json
+D:\LiberKey\MyDocuments\source\repos\GetExternalip_php\GetExternalip_php\bin\Debug\net8.0\GetExternalip_php.dll
+D:\LiberKey\MyDocuments\source\repos\GetExternalip_php\GetExternalip_php\bin\Debug\net8.0\GetExternalip_php.pdb
+D:\LiberKey\MyDocuments\source\repos\GetExternalip_php\GetExternalip_php\obj\Debug\net8.0\GetExternalip_php.GeneratedMSBuildEditorConfig.editorconfig
+D:\LiberKey\MyDocuments\source\repos\GetExternalip_php\GetExternalip_php\obj\Debug\net8.0\GetExternalip_php.AssemblyInfoInputs.cache
+D:\LiberKey\MyDocuments\source\repos\GetExternalip_php\GetExternalip_php\obj\Debug\net8.0\GetExternalip_php.AssemblyInfo.vb
+D:\LiberKey\MyDocuments\source\repos\GetExternalip_php\GetExternalip_php\obj\Debug\net8.0\GetExternalip_php.vbproj.CoreCompileInputs.cache
+D:\LiberKey\MyDocuments\source\repos\GetExternalip_php\GetExternalip_php\obj\Debug\net8.0\GetExternalip_php.dll
+D:\LiberKey\MyDocuments\source\repos\GetExternalip_php\GetExternalip_php\obj\Debug\net8.0\refint\GetExternalip_php.dll
+D:\LiberKey\MyDocuments\source\repos\GetExternalip_php\GetExternalip_php\obj\Debug\net8.0\GetExternalip_php.pdb
+D:\LiberKey\MyDocuments\source\repos\GetExternalip_php\GetExternalip_php\obj\Debug\net8.0\GetExternalip_php.genruntimeconfig.cache
+D:\LiberKey\MyDocuments\source\repos\GetExternalip_php\GetExternalip_php\obj\Debug\net8.0\ref\GetExternalip_php.dll

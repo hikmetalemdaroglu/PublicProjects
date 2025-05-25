@@ -1,0 +1,12 @@
+D:\oak\srv\OakApp\MenuSample\MenuSample\bin\Debug\MenuSample.exe.config
+D:\oak\srv\OakApp\MenuSample\MenuSample\bin\Debug\MenuSample.exe
+D:\oak\srv\OakApp\MenuSample\MenuSample\bin\Debug\MenuSample.pdb
+D:\oak\srv\OakApp\MenuSample\MenuSample\bin\Debug\MenuSample.xml
+D:\oak\srv\OakApp\MenuSample\MenuSample\obj\Debug\MenuSample.vbproj.AssemblyReference.cache
+D:\oak\srv\OakApp\MenuSample\MenuSample\obj\Debug\MenuSample.Form1.resources
+D:\oak\srv\OakApp\MenuSample\MenuSample\obj\Debug\MenuSample.Resources.resources
+D:\oak\srv\OakApp\MenuSample\MenuSample\obj\Debug\MenuSample.vbproj.GenerateResource.cache
+D:\oak\srv\OakApp\MenuSample\MenuSample\obj\Debug\MenuSample.vbproj.CoreCompileInputs.cache
+D:\oak\srv\OakApp\MenuSample\MenuSample\obj\Debug\MenuSample.exe
+D:\oak\srv\OakApp\MenuSample\MenuSample\obj\Debug\MenuSample.xml
+D:\oak\srv\OakApp\MenuSample\MenuSample\obj\Debug\MenuSample.pdb

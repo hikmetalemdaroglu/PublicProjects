@@ -1,0 +1,16 @@
+D:\SourceVS\vb\csximage_VBNET\bin\Debug\csXImageDemo.exe
+D:\SourceVS\vb\csximage_VBNET\bin\Debug\csXImageDemo.pdb
+D:\SourceVS\vb\csximage_VBNET\bin\Debug\csXImageDemo.xml
+D:\SourceVS\vb\csximage_VBNET\bin\Debug\Interop.csXImageTrial.dll
+D:\SourceVS\vb\csximage_VBNET\bin\Debug\AxInterop.csXImageTrial.dll
+D:\SourceVS\vb\csximage_VBNET\obj\Debug\csXImageDemo.vbproj.AssemblyReference.cache
+D:\SourceVS\vb\csximage_VBNET\obj\Debug\Interop.csXImageTrial.dll
+D:\SourceVS\vb\csximage_VBNET\obj\Debug\AxInterop.csXImageTrial.dll
+D:\SourceVS\vb\csximage_VBNET\obj\Debug\csXImageDemo.vbproj.ResolveComReference.cache
+D:\SourceVS\vb\csximage_VBNET\obj\Debug\csXImageDemo.fMain.resources
+D:\SourceVS\vb\csximage_VBNET\obj\Debug\csXImageDemo.Resources.resources
+D:\SourceVS\vb\csximage_VBNET\obj\Debug\csXImageDemo.vbproj.GenerateResource.cache
+D:\SourceVS\vb\csximage_VBNET\obj\Debug\csXImageDemo.vbproj.CoreCompileInputs.cache
+D:\SourceVS\vb\csximage_VBNET\obj\Debug\csXImageDemo.exe
+D:\SourceVS\vb\csximage_VBNET\obj\Debug\csXImageDemo.xml
+D:\SourceVS\vb\csximage_VBNET\obj\Debug\csXImageDemo.pdb
